@@ -24,20 +24,25 @@
       
     </dependency>
   
-   <dependency>
+  <!--   <dependency>
     <groupId>mongodriver</groupId>
     <artifactId>mongodriver</artifactId>
     <version>1.0</version>
     <scope>system</scope>
     <systemPath>${baselibpath}/mongo-java-driver-3.0.0-rc1.jar</systemPath>
-   </dependency> 
+   </dependency> -->
   
+   <dependency>
+        <groupId>org.mongodb</groupId>
+        <artifactId>mongodb-driver</artifactId>
+        <version>3.0.2</version>
+  </dependency>
   </dependencies>
   
-  <repositories>
+ <!--   <repositories>
   <repository>
     <id>my-local-repo</id>
     <url>file://${basedir}/my-repo</url>
   </repository>
-</repositories>
+</repositories>-->
 </project>
