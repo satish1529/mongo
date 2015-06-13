@@ -1,4 +1,4 @@
-package com.mportal.methodreferences.lamda;
+package com.methodreferences.lamda;
 
 public class Person {
 	

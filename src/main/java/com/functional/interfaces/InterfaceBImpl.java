@@ -1,4 +1,4 @@
-package com.mportal.functional.interfaces;
+package com.functional.interfaces;
 
 public class InterfaceBImpl extends ClassB implements InterfaceB,InterfaceC {
 

@@ -1,4 +1,4 @@
-package com.mportal.functional.interfaces;
+package com.functional.interfaces;
 
 public interface InterfaceB  extends InterfaceA{
 

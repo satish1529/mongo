@@ -1,4 +1,4 @@
-package com.mportal.thread.ForkJoinPool;
+package com.thread.ForkJoinPool;
 
 import java.io.File;
 import java.util.ArrayList;
